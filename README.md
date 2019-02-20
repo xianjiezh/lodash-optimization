@@ -2,7 +2,7 @@
 lodash 打包优化
 
 
-lodash 是一个 JavaScript 的实用工具库, 它提供了数十种的工具方法, 用来处理 JavaScript 的各位数据
+lodash 是一个 JavaScript 的实用工具库, 它提供了数十种的工具方法, 用来处理 JavaScript 各种类型的数据
 
 例如下面一段代码, 使用了它的深克隆和 find 方法
 ```
