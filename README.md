@@ -1,6 +1,7 @@
 # lodash-optimization
 lodash 打包优化
 
+![简书地址](https://www.jianshu.com/p/f03ff4f3a8b3)
 
 lodash 是一个 JavaScript 的实用工具库, 它提供了数十种的工具方法, 用来处理 JavaScript 各种类型的数据
 
@@ -20,6 +21,7 @@ console.log('deep', deep)
 console.log('res', res)
 ```
 简单配置一下 webpack, 然后打包一下, 会惊奇的发现打包体积居然有70多k, 明明只使用了它的两个方法,  写了不到10行的代码呢 !!
+
 ![image.png](https://upload-images.jianshu.io/upload_images/8004024-7d6cf1a547d4598b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 想到了多年以前被 jQuery 支配的恐惧: 只是想用它发一个 ajax , 但是却不得不引入整个的 jQuery 
 
