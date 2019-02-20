@@ -1,4 +1,3 @@
-const webpack = require('webpack')
 const LodashModuleReplacementPlugin = require('lodash-webpack-plugin')
 const htmlWebpackPlugin = require('html-webpack-plugin')
 const path = require('path')
