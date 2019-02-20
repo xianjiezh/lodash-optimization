@@ -1,7 +1,7 @@
 # lodash-optimization
 lodash 打包优化
 
-![简书地址](https://www.jianshu.com/p/f03ff4f3a8b3)
+[简书地址](https://www.jianshu.com/p/f03ff4f3a8b3)
 
 lodash 是一个 JavaScript 的实用工具库, 它提供了数十种的工具方法, 用来处理 JavaScript 各种类型的数据
 
